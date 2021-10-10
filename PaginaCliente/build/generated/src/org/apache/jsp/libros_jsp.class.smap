@@ -1,0 +1,26 @@
+SMAP
+libros_jsp.java
+JSP
+*S JSP
+*F
++ 0 libros.jsp
+libros.jsp
++ 1 scripts.jspf
+WEB-INF/jspf/scripts.jspf
++ 2 styles.jspf
+WEB-INF/jspf/styles.jspf
++ 3 nav.jspf
+WEB-INF/jspf/nav.jspf
++ 4 carrusel.jspf
+WEB-INF/jspf/carrusel.jspf
+*L
+1,11:52
+1#1,4:63
+11#0,2:67
+1#2,3:69
+12#0,4:71
+1#3,52:75
+15#0,3:127
+1#4,40:130
+17#0,49:170
+*E

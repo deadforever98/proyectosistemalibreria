@@ -1,0 +1,20 @@
+<nav>
+    <div class="col-md-3 col-sm-12">
+        <p class="logo">Proyecto Estudiantil WEB </p>
+    </div>
+    <div class="col-md-9 col-sm-12">
+        <ul class="nav float-right">
+            <li class="menu"><a href="index.jsp">INICIO</a></li>
+            <li class="menu"><a href="libros.jsp">LIBROS</a></li>
+            <li class="menu"><a href="colecciones.jsp">COLECCIONES</a></li>
+            <li class="menu"> <a href="autores.jsp">AUTORES</a></li>
+            <li class="menu"> <a href="contactos.jsp">CONTACTOS</a></li>
+            <li class="menu"> <a href="ensayos.jsp">ENSAYOS Y HUMANIDADES</a></li>
+            <li class="menu"><a href="login.jsp" class="btnlogin btn btn-outline-success" style="">Login</a></li>
+
+        </ul>
+    </div>
+
+
+
+</nav>
